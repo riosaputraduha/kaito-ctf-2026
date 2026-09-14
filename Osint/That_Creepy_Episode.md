@@ -6,7 +6,7 @@
 
 ## Challenge Description
 
-![Creepy Episode GIF](./That%20Creepy%20Episode/ezgif.com-video-to-gif-converter.gif)
+<img src="./That Creepy Episode/ezgif.com-video-to-gif-converter.gif" alt="Creepy Episode GIF" width="500">
 
 I remember catching this weirdly unsettling scene on TV as a kid and it stuck with me.........for years. Can you track down the episode title and the minute mark where this clip appears?
 
