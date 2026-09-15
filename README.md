@@ -132,6 +132,6 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZtZ2M3cmY3b3B5bHZ0dXR2ZXA4cTV2YnM3dG1nOTV5cTh3bWFyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="30">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3ZtZ2M3cmY3b3B5bHZ0dXR2ZXA4cTV2YnM3dG1nOTV5cTh3bWFyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2IudUHdI075HL02Pkk/giphy.gif" width="210">
   <p><i>Write-up ini adalah arsip dari Kaito's CTF 2026. Data telah dikunci.</i></p>
 </div>
